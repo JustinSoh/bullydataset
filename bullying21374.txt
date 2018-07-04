@@ -1,0 +1,4 @@
+<div class="content">
+				
+				Looks quite rectangular, if my options are "square" and "rectangle." However, they may be insisting it's square so that you waste your time to prove it's not.
+			</div>
